@@ -23,7 +23,7 @@ Services: Additional services that customer may want like (insurance, loan etc.)
 
 Branch/Employee : Manager/Employee details of the concern bank.
 
-Database : MYSQL (Install XAMPP)
+Database : MYSQL 
 
 Technologies used:
 
